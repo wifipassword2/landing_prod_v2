@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #007fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="SVGRepo_bgCarrier" data-name="SVGRepo bgCarrier">
+    <rect class="cls-1" x="105" y="207" width="598" height="352"/>
+  </g>
+  <g id="SVGRepo_iconCarrier" data-name="SVGRepo iconCarrier">
+    <g id="Icons">
+      <g id="Color-">
+        <path id="Messenger" class="cls-2" d="m400,0C179.09,0,0,165.82,0,370.37c0,116.56,58.17,220.52,149.07,288.41v141.22l136.2-74.75c36.35,10.06,74.85,15.49,114.74,15.49,220.91,0,400-165.82,400-370.37S620.91,0,400,0h0Zm39.75,498.77l-101.86-108.64-198.76,108.64,218.63-232.1,104.35,108.64,196.27-108.64-218.63,232.1h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
