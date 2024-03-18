@@ -23,7 +23,9 @@ export default function RootLayout({
           <link rel="icon" href="favicon.ico" />
           <link rel="canonical" href="https://www.service8.ca/"/>
         </head>
-      <body id='app' className={`${inter.className}`}>{children}</body>
+      <body id='app' className={`${inter.className}`}>{children}
+        <Analytics />
+      </body>
     </html>
   )
 }
