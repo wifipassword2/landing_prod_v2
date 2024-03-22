@@ -54,10 +54,10 @@ export default function Home() {
         {/* pricing card */}
         <div className='bg-[#1E1E1F] bg-opacity-100 rounded-sm p-[20px] pt-[28px] pb-6 shadow-xl mt-[4rem] lg:mt-4 m-4 min-w-[250px] max-w-[340px] mx-auto h-fit lg:order-4'><p className='text-[#FFFFFF] text-2xl m-[2rem] mb-[1rem] mt-1 text-center '>Pricing:</p>
         <p className='ml-3'>First hour: <span className='line-through text-red-500'>$90</span><span className='text-[#caced2]'>  $45</span><span className='text-sm'> (launch sale)</span></p>
-        <p className='mt-4 ml-3'>Each subsequent hour: <span className='text-[#caced2]'>$60</span></p>
+        <p className='mt-4 ml-3'>Each subsequent hour: <span className='text-[#caced2]'>$50</span></p>
         {/* <p className='mt-4 ml-3'>The rate won't go below $30/h for additional hours. </p> */}
         {/* <p className='mt-4 ml-3'>This billing strategy encourages me to work honesty, quickly and effectively.</p> */}
-        <p className='mt-4 ml-3'> plus there is a <span className='text-[#caced2]'>$50</span> flat fee for any on-site repairs (to cover travel time, fuel etc.)</p>
+        <p className='mt-4 ml-3'> plus there is a <span className='text-[#caced2]'>$40</span> flat fee for any on-site repairs (to cover travel time, fuel etc.)</p>
           <ul className='mt-6 ml-6'>Possible payment methods: <li className='ml-6 list-disc'>cash</li> 
           <li className='ml-6 list-disc'>e-transfer</li>
           <li className='ml-6 list-disc'>personal cheque</li>
@@ -68,7 +68,7 @@ export default function Home() {
         {/* contacts card */}
         <div className='mt-[4rem] lg:mt-[-4rem] bg-[#1E1E1F] bg-opacity-100 rounded-sm p-[20px] pt-[28px] pb-6 shadow-xl  m-4 min-w-[250px] max-w-[320px] mx-auto h-fit lg:order-5'><p className='text-[#FFFFFF] text-2xl m-[2rem] mb-[1rem] mt-1 text-center ml-0 '>My contacts:</p>
         <address className=' '>
-          <span className='flex '><a href='mailto:help@service8.ca' className=' text-[#237CC9] font-sans underline text-lg hover:no-underline flex'><Image src={email} className='align-middle w-[1.5rem] h-[1.5rem] m-1.5 mr-4' alt="email icon" />help@service8.ca</a><span className='text-xl black'></span> 
+          <span className='flex '><a href='mailto:help@service8.ca' className=' text-[#237CC9] font-sans underline text-lg hover:no-underline flex'><Image src={email} className='align-middle w-[1.5rem] h-[1.5rem] m-1.5 mr-4' alt="email icon" />support@service8.ca</a><span className='text-xl black'></span> 
           <button></button>
         </span>
         
