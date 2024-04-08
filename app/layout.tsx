@@ -8,8 +8,8 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Computer repairs service',
-  description: 'Computer repairs service landing page',
+  title: 'Computer Repairs and Tech Support in Toronto, York | Service №8',
+  description: 'Service №8 offers computer repair and tech support services around GTA. Specializing in solving common computer and laptop problems, including diagnostics, maintenance, malware removal, and more. On-site or drop-off available. Contact us today!',
 }
 
 export default function RootLayout({
