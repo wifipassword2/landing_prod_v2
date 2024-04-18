@@ -1,5 +1,5 @@
 import Image from '@/node_modules/next/image';
-import logo from '/public/s_logo.svg'
+import logo from '/public/favicon.ico'
 import email from '/public/email.svg'
 import phone from '/public/phone.svg'
 import telegram from '/public/telegram.svg'
